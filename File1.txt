@@ -1,2 +1,6 @@
 This is the begining of the file
+<<<<<<< HEAD
 Adhoc changes
+=======
+This is Ramya
+>>>>>>> c3eb09d (First File Change from local)
